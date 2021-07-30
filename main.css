@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
+a:link, a:hover, a:visited, a:focus {
+    text-decoration:none;
+}
+/* front page code: */
+.fronttitle{
+    color: #9BA9FF;
+    font-family:'Comfortaa', cursive;
+    font-size: 50px;
+}
+
+.frontsub{
+    color: #8fc6f5;
+    font-family:'Comfortaa', cursive;
+    font-size: 30px;
+}
+
+.circle{
+    height: 600px;
+    width: 600px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position:absolute;
+    left:580px;
+    top:100px;
+}
+
+.circle2{
+    box-sizing: border-box;
+    box-shadow: 8px 7px 10px 0px rgba(95,195,193,0.52);
+    height: 500px;
+    width: 500px;
+    background-color: rgb(222, 225, 225);
+    border-radius: 50%;
+    position:absolute;
+    left:620px;
+    top:150px;
+    padding:170px 0px 0px 0px;
+    text-align: center;
+}
+
+.indexlandscape{
+    font-family:'Comfortaa', cursive;
+    font-size: 25px;
+    position: absolute;
+    left: 1115px;
+    top: 200px;
+}
+.indexportrait{
+    font-family:'Comfortaa', cursive;
+    font-size: 25px;
+    position: absolute;
+    left: 1175px;
+    top: 325px;
+}
+.indexanimals{
+    font-family:'Comfortaa', cursive;
+    font-size: 23px;
+    position: absolute;
+    left: 1169px;
+    top: 455px;
+}
+
+.indexland {
+    color:#4895ef
+}
+.indexport{
+    color:#dda2ff;
+}
+.indexani{
+    color:#37bdc4;
+}
+
+.instaicon{
+    position: absolute;
+    left:840px;
+    top:540px;
+}
+
+/* navigation bar code: */
+
+.naviHome{
+    color:#9BA9FF;
+    font-family:'Comfortaa', cursive;
+
+}
+
+.naviLand{
+    color:#4895ef;
+    font-family:'Comfortaa', cursive;
+}
+
+.naviPort{
+    color:#dda2ff;
+    font-family:'Comfortaa', cursive;
+}
+
+.naviAni{
+    color:#37bdc4;
+    font-family:'Comfortaa', cursive;
+}
+
+.naviFood{
+    color:#17775f;
+    font-family:'Comfortaa', cursive;
+}
+
+.landtitle{
+    color:#4895ef;
+    font-family:'Comfortaa', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+.porttitle{
+    color:#dda2ff;
+    font-family: 'Comfortaa', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+.anititle{
+    color:#37bdc4;
+    font-family: 'Comfortaa', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+.foodtitle{
+    color:#17775f;
+    font-family: 'Comfortaa', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+/* images code */
+.img1{
+    position: absolute;
+    top: 170px;
+    padding-left: 10px;
+}
+.i1caption{
+    position: absolute;
+    top:770px;
+    padding-left: 10px;
+}
+
+.img2{
+    position: absolute;
+    left: 450px;
+    top: 250px;
+}
+.i2caption{
+    position: absolute;
+    left: 450px;
+    top:650px;
+}
+
+
+.img3{
+    position: absolute;
+    left:1090px;
+    top:170px;
+}
+.i3caption{
+    position: absolute;
+    left: 1090px;
+    top: 770px;
+}
+
+.img4{
+    position: absolute;
+    top: 800px;
+    left: 100px;
+}
+.i4caption{
+    position: absolute;
+    left:100px;
+    top:1200px;
+    padding-bottom: 10px;
+}
+.img5{
+    position: absolute;
+    left: 780px;
+    top:800px;
+}
+.i5caption{
+    position: absolute;
+    left:780px;
+    top:1200px;
+    padding-bottom: 10px;
+}
+
+.img6{
+    position: absolute;
+    top: 170px;
+}
+.i6caption{
+    position: absolute;
+    top:670px;
+}
+
+.img7{
+    position: absolute;
+    left:770px;
+    top:170px;
+}
+#i7caption{
+    position: absolute;
+    left: 770px;
+    top: 670px;
+}
+#img8{
+    position: absolute;
+    top:710px;
+    left: 690px;
+}
+#i8caption{
+    position: absolute;
+    top:1185px;
+    left:690px;
+    padding-bottom: 10px;
+}
+
+#img9{
+    position: absolute;
+    top:720px;
+    left:150px;
+}
+#i9caption{
+    position: absolute;
+    top:1380px;
+    left: 600px;
+    padding-bottom: 10px;
+}
+
+#img10{
+    position: absolute;
+    left: 100px;
+    top:170px;
+}
+#i10cptn{
+    position: absolute;
+    left:100px;
+    top:500px;
+}
+
+#img11{
+    position: absolute;
+    left:850px;
+    top:170px;
+}
+#i11cptn{
+    position: absolute;
+    left:850px;
+    top:500px;
+}
+#img12{
+    position: absolute;
+    left:200px;
+    top:550px;
+}
+#i12cptn{
+    position: absolute;
+    left:200px;
+    top:890px;
+}
+
+#i13{
+    position: absolute;
+    left:790px;
+    top:550px;
+}
+#i13cptn{
+    position: absolute;
+    left:790px;
+    top:850px;
+}
+
+#i14{
+    position: absolute;
+    left:90px;
+    top:930px;
+}
+#i14cptn{
+    position: absolute;
+    left:90px;
+    top:1330px;
+    padding-bottom: 10px;
+}
+
+#i15{
+    position: absolute;
+    left:800px;
+    top:970px;
+    padding-bottom: 10px;
+}
+#i15cptn{
+    position: absolute;
+    left:800px;
+    top:1305px;
+    padding-bottom: 10px;
+}
